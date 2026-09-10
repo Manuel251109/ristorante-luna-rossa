@@ -253,5 +253,15 @@ header {
     font-size: 14px;
   }
 }
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px; /* spazio tra testo e immagine */
+}
 
-
+.logo-img {
+  width: 70px;   /* puoi aumentare o diminuire */
+  height: auto;
+  border-radius: 50%; /* se vuoi effetto cerchio */
+}
