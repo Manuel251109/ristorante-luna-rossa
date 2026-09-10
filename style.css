@@ -52,15 +52,6 @@ header {
       0 0 12px rgba(0,0,0,0.4);
 }
 
-/* Punto rosso Luna Rossa */
-.logo span {
-  color: #ffcc00;
-  font-weight: 900;
-  text-shadow:
-      0 0 8px rgba(255,204,0,0.8),
-      0 0 14px rgba(255,204,0,0.6);
-}
-
 /* SOTTOTITOLO: Ristorante e Pizzeria */
 .subtitle {
   font-size: 26px;
